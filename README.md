@@ -1,5 +1,25 @@
 # Getting Started with Create React App
 
+![portfolio-react-vipul](https://user-images.githubusercontent.com/68685595/227966440-68c2a4d2-a901-4839-9a4a-88bc8a049c52.png)
+
+Technologies Used
+1. HTML
+2. CSS
+3. JavaScript
+
+Frameworks and Libraries
+
+4. ReactJS
+5. Tailwind CSS
+6. getform.io
+7. React-icons
+8. React-smooth-scroll
+
+##Featues
+1. Responsive Design
+2. Filterable Project section 
+3. Working Contact form
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
