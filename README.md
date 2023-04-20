@@ -12,13 +12,14 @@
 4. ReactJS
 5. Tailwind CSS
 6. getform.io
-7. React-icons
-8. React-smooth-scroll
+7. React Hooks
+8. React-icons
+9. React-smooth-scroll
 
 ## Featues
-1. Responsive Design
-2. Filterable Project section 
-3. Working Contact form
+- Responsive Design
+- Filterable Project section 
+- Working Contact form
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
