@@ -2,12 +2,12 @@
 
 ![portfolio-react-vipul](https://user-images.githubusercontent.com/68685595/227966440-68c2a4d2-a901-4839-9a4a-88bc8a049c52.png)
 
-Technologies Used
+## Technologies Used
 1. HTML
 2. CSS
 3. JavaScript
 
-Frameworks and Libraries
+# Frameworks and Libraries
 
 4. ReactJS
 5. Tailwind CSS
@@ -15,7 +15,7 @@ Frameworks and Libraries
 7. React-icons
 8. React-smooth-scroll
 
-##Featues
+## Featues
 1. Responsive Design
 2. Filterable Project section 
 3. Working Contact form
