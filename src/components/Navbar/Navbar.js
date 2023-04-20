@@ -11,7 +11,7 @@ const Navbar = () => {
   };
   return (
     <>
-      <div className="fixed w-full h-[60px] flex justify-around items-center bg-[#08192f] text-[#ccd6f6]">
+      <div className="fixed w-full h-[60px] flex justify-around items-center bg-[#08192f] text-[#ccd6f6] z-20">
         {/* menu */}
         <ul className="hidden md:flex cursor-pointer">
           <li className="px-5 hover:border-b-2 pb-1">
