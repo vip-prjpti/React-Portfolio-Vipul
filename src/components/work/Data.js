@@ -6,6 +6,7 @@ import Work5 from '../../assets/projects/Donation-listing.png';
 import Work6 from '../../assets/projects/Country-Info.png';
 import Work7 from '../../assets/projects/Photographers-portfolio.png';
 import Work8 from '../../assets/projects/portfolio-react-vipul.png';
+import Work9 from '../../assets/projects/netflix-clone.png';
 
 export const projectsData = [
   {
@@ -69,6 +70,14 @@ export const projectsData = [
     title: "Vipul Portfolio",
     category: "React",
     github:"https://github.com/vip-prjpti/Photographers-portfolio",
+    url:"https://vip-prjpti.github.io/Photographers-portfolio/",
+  },
+  {
+    id: 9,
+    image: Work9,
+    title: "Netflix Clone",
+    category: "React",
+    github:"https://github.com/vip-prjpti/Netflix-Clone-React",
     url:"https://vip-prjpti.github.io/Photographers-portfolio/",
   },
 ];

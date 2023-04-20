@@ -15,9 +15,9 @@ const About = () => {
         <img src={Img} alt="" className="about__image "/>
         <div className="about--right-container">
               <p className="about__description">
-              A frontend developer and a graduate in Bachelor of Computer Science from Punjab, India and currently working as a Programmer Analyst Trainee at "Cognizant". <br /><br /> I love exploring and learning new programming languages, keeping up with the latest technology, and increasing my productivity and creativity to add more value to my work. Always had a craze for designing websites and I am passionate about building amazing web pages with great UI interfaces for clients ranging from individuals to small-businesses. 
+              A frontend developer and a graduate in Bachelor of Computer Science from Punjab, India and currently working as a Programmer Analyst Trainee at "Cognizant". <br /><br /> I love exploring and learning new languages, keeping up with the latest technology, and increasing my productivity and creativity to add more value to my work. Always had a craze for designing websites and I am passionate about building amazing web pages with great UI interfaces for clients ranging from individuals to small-businesses. 
               <br /><br />
-              My main strength is to never give up and to take ownership of my work and I learned through my experience that consistency is the key to everything.
+              My main strength is to never give up and to take ownership of my work and I've learned through my experience that consistency is the key to everything.
                 
               </p>
 
