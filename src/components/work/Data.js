@@ -78,7 +78,7 @@ export const projectsData = [
     title: "Netflix Clone",
     category: "React",
     github:"https://github.com/vip-prjpti/Netflix-Clone-React",
-    url:"https://vip-prjpti.github.io/Photographers-portfolio/",
+    url:"https://react-netflixx.netlify.app/",
   },
 ];
 
