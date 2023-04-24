@@ -2,13 +2,6 @@
     justify-content: center;
 }
 
-.contact__title{
-    text-align: center;
-    font-size: 1.25rem;
-    font-weight: 500;
-    margin-bottom: 1.5rem;
-}
-
 .contact__form{
     width: 660px;
 }

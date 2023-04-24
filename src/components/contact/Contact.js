@@ -11,7 +11,7 @@ const Contact = () => {
 
         <div className="contact__container container grid">
           <div className="contact__content">
-            <h3 className="contact__title">Write me your project</h3>
+            
             <form method="post" action="https://getform.io/f/d99b15e6-4246-47ec-9f1c-cb3cfb423166" className="contact__form">
               <div className="contact__form-div">
                 <label className="contact__form-tag" >Name</label>

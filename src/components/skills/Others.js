@@ -24,13 +24,7 @@ const Others = () => {
               </div>
             </div>
   
-            <div className="skills__data">
-              <HiOutlineBadgeCheck className="check"/>
-              <div>
-                <h3 className="skills__name"> Postman </h3>
-                <span className="skills__level">Basic</span>
-              </div>
-            </div>
+        
           </div>
   
           <div className="skills__group">
@@ -45,8 +39,8 @@ const Others = () => {
             <div className="skills__data">
               <HiOutlineBadgeCheck className="check"/>
               <div>
-                <h3 className="skills__name"> C/C++ </h3>
-                <span className="skills__level">Intermediate</span>
+                <h3 className="skills__name"> Postman </h3>
+                <span className="skills__level">Basic</span>
               </div>
             </div>
           </div>

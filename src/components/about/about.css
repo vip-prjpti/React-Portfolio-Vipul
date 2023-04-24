@@ -9,11 +9,13 @@
     width: 350px;
     border-radius: 1.5rem;
     justify-self: center;
+    box-shadow: 0.5rem 0.8rem 2rem rgba(0, 0, 0, 0.6);
 }
 
 .about--right-container{
     display: flex;
     flex-direction: column;
+    margin-left: 1.5rem;
 }
 
 .button--download{
