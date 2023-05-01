@@ -1,4 +1,4 @@
-// import Work1 from '../../assets/team4.jpg';
+import Work1 from '../../assets/team4.jpg';
 import Work2 from '../../assets/projects/Random-Qoute.png';
 import Work3 from '../../assets/projects/Inshorts-clone.png';
 import Work4 from '../../assets/projects/Moviehub.png';
@@ -13,6 +13,14 @@ import Work12 from '../../assets/projects/Travel-App.png';
 
 export const projectsData = [
   
+  {
+    id: 1,
+    image: Work1,
+    title: "Test Project",
+    category: "Javascript",
+    github:"https://github.com/vip-prjpti/Random-Quote",
+    url:"https://vip-prjpti.github.io/Random-Quote/",
+  },
   {
     id: 2,
     image: Work2,
