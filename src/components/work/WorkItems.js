@@ -9,10 +9,10 @@ const WorkItems = ({ item }) => {
       <h3 className="work__title">{item.title}</h3>
 
       <div className="flex justify-between">
-      <a href={item.github} className="cursor-pointer work_button flex hover:ml-2 duration-500">
+      <a target="_blank" rel="noopener noreferrer" href={item.github} className="cursor-pointer work_button flex hover:ml-2 duration-500" >
       Code <BsArrowRight className="work__button-icon flex ml-2 mt-1 " />
       </a>
-      <a href={item.url} className="cursor-pointer group work_button flex ">
+      <a href={item.url} className="cursor-pointer group work_button flex " target="_blank" rel="noopener noreferrer">
       Live <BsArrowRight className="work__button-icon flex ml-2 mt-1 group-hover:mr-[-8px]" />
       </a>
       </div>
