@@ -16,7 +16,7 @@
 8. React-icons
 9. React-smooth-scroll
 
-## Featues
+## Features
 - Responsive Design
 - Filterable Project section 
 - Working Contact form
